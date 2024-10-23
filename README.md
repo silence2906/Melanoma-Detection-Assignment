@@ -58,12 +58,12 @@ Vascular lesion
 - Write your findings after the model fit, see if the issues are resolved or not?
 
 ## Technologies Used
-- pandas - version 1.0
-- numpy - version 2.0
-- matplotlib - version 3.0
-- saeborn - version 3.0
-- plotly - version 3.0
-- sklearn - version 3.0
+- pandas
+- numpy
+- matplotlib 
+- saeborn
+- plotly
+- sklearn
 - statsmodel
 - tensorflow
 
